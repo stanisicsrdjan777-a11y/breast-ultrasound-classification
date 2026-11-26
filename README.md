@@ -15,17 +15,6 @@ AI model that classifies breast ultrasound images into **benign**, **malignant**
 [Breast Ultrasound Images Dataset (BUSI)](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)  
 Classes: benign, malignant, normal. Mask images were removed; only original ultrasound images were used.
 
-## Results
-
-*(Add your final metrics here after training, for example:)*
-
-| Class      | Precision | Recall | F1-score |
-|------------|-----------|--------|----------|
-| benign     | —         | —      | —        |
-| malignant  | —         | —      | —        |
-| normal     | —         | —      | —        |
-
-Confusion matrix and classification report are generated at the end of the notebook.
 
 ## How to run
 
